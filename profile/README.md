@@ -1,2 +1,2 @@
 # BrainRxAI
-The `BrainRxAI` Research Group is an interdisciplinary team dedicated to pioneering research at the intersection of neuroscience and artificial intelligence.
+The BrainRxAI Research Group is an innovative team that deeply integrates artificial intelligence with neuroscience. We are dedicated to leveraging advanced AI technologies to decode the brain's complex mechanisms. Using this foundation, we develop precise diagnostic tools and personalized intervention strategies for a wide range of brain diseases. Our ultimate vision is to use cutting-edge technology to achieve the goal of "writing intelligent prescriptions for the brain."
